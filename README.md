@@ -87,7 +87,8 @@ git clone https://github.com/PedroOliveira-dev/PEDRO-HENRIQUE-SALES-DE-OLIVEIRA.
 cd PEDRO-HENRIQUE-SALES-DE-OLIVEIRA.git
 
 **2. Configurar a String de Conexão**
-Edite o arquivo ConfigApp.json com suas credenciais do PostgreSQL.
+Edite o arquivo ConfigApp.json com as credenciais do PostgreSQL.
+"Host=localhost;Port=5432;Username=postgres;Password=Peste.2204;Database=postgres"
 
 **3. Executar a Aplicação**
 No terminal, execute o comando:
