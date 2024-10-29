@@ -20,17 +20,18 @@ Interface Frontend em JavaScript para exibir e editar os dados dos usuários.
 
 **Estrutura do Projeto:**
 
-**projetoPedro/
+**│
+├──Program.cs
 │
-├── Program.cs
-├── Usuario.cs
-├── ConfigApp.json
-├── Frontend/
-│   ├── index.html
-│   ├── app.js
+├──Usuario.cs
+│
+├──ConfigApp.json
+│
+├──Frontend/
+│    ├── index.html
+│     ├──app.js
 └── sql/
-    └── init.sql**
-
+     └── init.sql**
 
 **1. Program.cs**
 O arquivo principal do backend. Ele realiza as seguintes funções:
